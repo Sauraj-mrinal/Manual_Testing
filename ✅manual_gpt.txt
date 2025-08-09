@@ -269,12 +269,12 @@ Jaise ek chef ko recipe follow karni padti hai, waise hi ek tester ko STLC steps
 
 | Step No. | Name                               | Kaam kya hota hai? (Easy Words)                           |
 | -------- | ---------------------------------- | --------------------------------------------------------- |
-| 1️⃣    	    | **Requirement Analysis**        			    | Kya test karna hai? Kya user chahata hai?                 |
-| 2️⃣           | **Test Planning**                 	     	       | Kaun test karega? Kab karega? Kaunse tools lagenge?       |
-| 3️⃣     	    | **Test Case Design / Development** 		   | Step-by-step likhna: kya input dena hai, kya expect karna |
-| 4️⃣ 	  	     | **Environment Setup**                           | Jisme testing hogi — app install, server, database, etc.  |
-| 5️⃣  	     | **Test Execution**                                 | Actually testing karna, bug dhoondhna                     |
-| 6️⃣     	    | **Test Closure**                                     | Report banana — kya mila, kya fix hua, kya pending hai    |
+| 1️⃣    	  | **Requirement Analysis**        			| Kya test karna hai? Kya user chahata hai?                 |
+| 2️⃣       | **Test Planning**                 	| Kaun test karega? Kab karega? Kaunse tools lagenge?       |
+| 3️⃣     	 | **Test Case Design / Development** | Step-by-step likhna: kya input dena hai, kya expect karna |
+| 4️⃣ 	  	  | **Environment Setup**              | Jisme testing hogi — app install, server, database, etc.  |
+| 5️⃣  	    | **Test Execution**                 | Actually testing karna, bug dhoondhna                     |
+| 6️⃣     	 | **Test Closure**                   | Report banana — kya mila, kya fix hua, kya pending hai    |
 
 
 🎯 Shortcut to Remember: R-P-C-E-E-C
@@ -522,4 +522,5 @@ Same 3 cheez likho:
 * Expected vs Actual Result
 
 Main wait kar raha hoon — chalo Mrinal, ek aur try!
+
 
