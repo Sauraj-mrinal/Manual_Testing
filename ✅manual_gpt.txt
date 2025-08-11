@@ -523,4 +523,56 @@ Same 3 cheez likho:
 
 Main wait kar raha hoon — chalo Mrinal, ek aur try!
 
+Perfect 👍
+Chalo quick recap karte hain **Why Software Testing is Important** — tum already ATM, movie limit, medical example de chuke ho, bas points strong kar lete hain:
+
+---
+
+## ✅ Why Software Testing is Important (Recap)
+
+1. **Bugs ko production me pahunchne se rokta hai**
+
+   * Example: ATM se paisa debit ho gaya, cash nahi nikla.
+2. **User ka trust banata hai**
+
+   * Agar app smooth chale to user ruke, warna uninstall.
+3. **Cost saving hoti hai**
+
+   * Production bug fix = bahut mehenga + time consuming.
+4. **Legal aur compliance issues avoid karta hai**
+
+   * Banking, healthcare, govt apps me testing skip = penalty risk.
+5. **Better user experience deta hai**
+
+   * Smooth navigation, proper error messages, fast response.
+
+💡 **Shortcut:** **B-U-C-L-U** → Bugs, Users, Cost, Legal, UX
+
+---
+
+## 🔽 Next: Advantages of Manual Testing
+
+### ✅ Advantages:
+
+1. **Human observation** → Logical + UI/UX issues detect kar sakta hai jo automation miss kare.
+2. **Flexible** → Requirement change hone par turant adapt ho sakta hai.
+3. **No coding skills required** (beginners ke liye easy entry).
+4. **Exploratory testing possible** → Without scripts, new issues discover kar sakte ho.
+5. **Low initial cost** → Automation tools ka expense nahi.
+
+---
+
+## ⚠ Disadvantages of Manual Testing:
+
+1. **Time-consuming** → Large projects me slow.
+2. **Less reliable** → Human errors possible.
+3. **Not reusable** → Test cases ko har baar manually chalana padta hai.
+4. **Boring/repetitive** → Tester ka focus kam ho sakta hai.
+5. **Scalability issues** → 1000+ test cases me manage karna tough.
+
+---
+
+Mrinal, main chahunga tum **apne words me ek advantage & ek disadvantage** likho — real project (Expense Tracker) se example deke.
+Uske baad hum syllabus ka **Fundamentals of Testing** start karenge.
+
 
